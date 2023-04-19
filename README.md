@@ -47,3 +47,4 @@ setup(
 ```
 
 ### We add '-e .' in requirement.txt so that when we use "pip install -r requirements.txt" it will auto execute the "setup.py".
+### The find_packages() method is used to include all the packages from the directory i.e Project directory
