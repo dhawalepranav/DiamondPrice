@@ -21,6 +21,15 @@ def save_object(filepath, object):
         logging.info("Exception has occured while saving a file")
         raise CustomException(e)
 
+def load_object(filepath):
+    try:
+        logging.info("Opening the filepath ..")
+        with open(filepath,'rb') as f:
+            return pickle.load(f)
+    except Exception as e:
+        logging.info("Exception occured while loading the object")
+        raise CustomException(e)
+
 def evaluate_model(models,X_train,y_train,X_test,y_test):
     try:
         logging.info("Fitting and Evaluating the models based on r2 score...")

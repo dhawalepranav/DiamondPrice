@@ -1,0 +1,8 @@
+[ 2023-04-27 17:10:33,034 ] 17 root - INFO - Loading the Pipeline object and Best score model..
+[ 2023-04-27 17:10:33,034 ] 26 root - INFO - Opening the filepath ..
+[ 2023-04-27 17:10:33,133 ] 26 root - INFO - Opening the filepath ..
+[ 2023-04-27 17:10:33,141 ] 25 root - INFO - Scaling the input data and prediction the result for it
+[ 2023-04-27 17:11:26,140 ] 17 root - INFO - Loading the Pipeline object and Best score model..
+[ 2023-04-27 17:11:26,140 ] 26 root - INFO - Opening the filepath ..
+[ 2023-04-27 17:11:26,145 ] 26 root - INFO - Opening the filepath ..
+[ 2023-04-27 17:11:26,145 ] 25 root - INFO - Scaling the input data and prediction the result for it
