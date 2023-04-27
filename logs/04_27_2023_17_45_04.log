@@ -1,0 +1,18 @@
+[ 2023-04-27 17:45:07,367 ] 224 werkzeug - WARNING -  * Debugger is active!
+[ 2023-04-27 17:45:07,375 ] 224 werkzeug - INFO -  * Debugger PIN: 350-727-973
+[ 2023-04-27 17:45:08,883 ] 224 werkzeug - INFO - 127.0.0.1 - - [27/Apr/2023 17:45:08] "[35m[1mPOST /predictions HTTP/1.1[0m" 500 -
+[ 2023-04-27 17:45:08,915 ] 224 werkzeug - INFO - 127.0.0.1 - - [27/Apr/2023 17:45:08] "[36mGET /predictions?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+[ 2023-04-27 17:45:08,923 ] 224 werkzeug - INFO - 127.0.0.1 - - [27/Apr/2023 17:45:08] "[36mGET /predictions?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+[ 2023-04-27 17:45:08,972 ] 224 werkzeug - INFO - 127.0.0.1 - - [27/Apr/2023 17:45:08] "[36mGET /predictions?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-04-27 17:45:09,036 ] 224 werkzeug - INFO - 127.0.0.1 - - [27/Apr/2023 17:45:09] "[36mGET /predictions?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+[ 2023-04-27 17:45:30,454 ] 17 root - INFO - Loading the Pipeline object and Best score model..
+[ 2023-04-27 17:45:30,455 ] 26 root - INFO - Opening the filepath ..
+[ 2023-04-27 17:45:30,511 ] 26 root - INFO - Opening the filepath ..
+[ 2023-04-27 17:45:30,511 ] 25 root - INFO - Scaling the input data and prediction the result for it
+[ 2023-04-27 17:45:30,519 ] 224 werkzeug - INFO - 127.0.0.1 - - [27/Apr/2023 17:45:30] "POST /predictions HTTP/1.1" 200 -
+[ 2023-04-27 17:45:34,325 ] 224 werkzeug - INFO - 127.0.0.1 - - [27/Apr/2023 17:45:34] "GET /predictions HTTP/1.1" 200 -
+[ 2023-04-27 17:45:40,970 ] 17 root - INFO - Loading the Pipeline object and Best score model..
+[ 2023-04-27 17:45:40,970 ] 26 root - INFO - Opening the filepath ..
+[ 2023-04-27 17:45:40,971 ] 26 root - INFO - Opening the filepath ..
+[ 2023-04-27 17:45:40,971 ] 25 root - INFO - Scaling the input data and prediction the result for it
+[ 2023-04-27 17:45:40,980 ] 224 werkzeug - INFO - 127.0.0.1 - - [27/Apr/2023 17:45:40] "POST /predictions HTTP/1.1" 200 -
